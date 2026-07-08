@@ -7,11 +7,11 @@ Each solution includes the query, the underlying concept, and a short note on th
 
 | # | Problem | Concept | Status | Date |
 |---|---------|---------|--------|------|
-| 1 | Recyclable and Low Fat Products | WHERE, filtering | ⬜ | |
-| 2 | Find Customer Referee | NULL handling | ⬜ | |
-| 3 | Big Countries | WHERE, OR conditions | ⬜ | |
-| 4 | Article Views I | DISTINCT, self-comparison | ⬜ | |
-| 5 | Invalid Tweets | String functions (LENGTH) | ⬜ | |
+| 1 | Recyclable and Low Fat Products | WHERE, filtering | ✅ | 08-07-26 |
+| 2 | Find Customer Referee | NULL handling | ✅ | 08-07-26 |
+| 3 | Big Countries | WHERE, OR conditions | ✅ | 08-07-26 |
+| 4 | Article Views I | DISTINCT, self-comparison | ✅ | 08-07-26 |
+| 5 | Invalid Tweets | String functions (LENGTH) | ✅ | 08-07-26 |
 | 6 | Replace Employee ID With The Unique Identifier | LEFT JOIN | ⬜ | |
 | 7 | Product Sales Analysis I | JOIN | ⬜ | |
 | 8 | Customer Who Visited but Did Not Make Any Transactions | NOT IN, GROUP BY | ⬜ | |
