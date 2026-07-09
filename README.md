@@ -3,7 +3,7 @@
 A daily log of solving LeetCode's SQL 50 set, one problem at a time.
 Each solution includes the query, the underlying concept, and a short note on the approach or reasoning behind it.
 
-## Progress Tracker
+## Progress  Tracker
 
 | # | Problem | Concept | Status | Date |
 |---|---------|---------|--------|------|
@@ -12,11 +12,11 @@ Each solution includes the query, the underlying concept, and a short note on th
 | 3 | Big Countries | WHERE, OR conditions | ✅ | 08-07-26 |
 | 4 | Article Views I | DISTINCT, self-comparison | ✅ | 08-07-26 |
 | 5 | Invalid Tweets | String functions (LENGTH) | ✅ | 08-07-26 |
-| 6 | Replace Employee ID With The Unique Identifier | LEFT JOIN | ⬜ | |
-| 7 | Product Sales Analysis I | JOIN | ⬜ | |
-| 8 | Customer Who Visited but Did Not Make Any Transactions | NOT IN, GROUP BY | ⬜ | |
-| 9 | Rising Temperature | Self JOIN, DATEDIFF | ⬜ | |
-| 10 | Average Time of Process per Machine | Self JOIN, CASE, AVG | ⬜ | |
+| 6 | Replace Employee ID With The Unique Identifier | LEFT JOIN | ✅ | 09-07-26 |
+| 7 | Product Sales Analysis I | JOIN | ✅ | 09-07-26 |
+| 8 | Customer Who Visited but Did Not Make Any Transactions | NOT IN, GROUP BY | ✅ | 09-07-26 |
+| 9 | Rising Temperature | Self JOIN, DATEDIFF | ✅ | 09-07-26 |
+| 10 | Average Time of Process per Machine | Self JOIN, CASE, AVG | ✅ | 09-07-26 |
 | 11 | Employee Bonus | LEFT JOIN, IS NULL | ⬜ | |
 | 12 | Students and Examinations | JOIN, LEFT JOIN, GROUP BY | ⬜ | |
 | 13 | Managers with at Least 5 Direct Reports | Subquery, HAVING | ⬜ | |
