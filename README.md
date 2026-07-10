@@ -17,10 +17,10 @@ Each solution includes the query, the underlying concept, and a short note on th
 | 8 | Customer Who Visited but Did Not Make Any Transactions | NOT IN, GROUP BY | ✅ | 09-07-26 |
 | 9 | Rising Temperature | Self JOIN, DATEDIFF | ✅ | 09-07-26 |
 | 10 | Average Time of Process per Machine | Self JOIN, CASE, AVG | ✅ | 09-07-26 |
-| 11 | Employee Bonus | LEFT JOIN, IS NULL | ⬜ | |
-| 12 | Students and Examinations | JOIN, LEFT JOIN, GROUP BY | ⬜ | |
-| 13 | Managers with at Least 5 Direct Reports | Subquery, HAVING | ⬜ | |
-| 14 | Confirmation Rate | LEFT JOIN, conditional AVG | ⬜ | |
+| 11 | Employee Bonus | LEFT JOIN, IS NULL | ✅ | 10-07-26 |
+| 12 | Students and Examinations | JOIN, LEFT JOIN, GROUP BY | ✅ | 10-07-26 |
+| 13 | Managers with at Least 5 Direct Reports | Subquery, HAVING | ✅ | 10-07-26 |
+| 14 | Confirmation Rate | LEFT JOIN, conditional AVG | ✅ | 10-07-26 |
 | 15 | Not Boring Movies | WHERE, modulo, ORDER BY | ⬜ | |
 | 16 | Average Selling Price | JOIN, weighted AVG | ⬜ | |
 | 17 | Project Employees I | JOIN, AVG, GROUP BY | ⬜ | |

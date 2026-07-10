@@ -14,4 +14,4 @@ JOIN Activity a2
 GROUP BY a1.machine_id;
 
 -- Notes: Self join pairs each process's "start" row (a1) with its "end" row (a2) — same machine_id AND same process_id, but different activity_type. Subtracting timestamps gives the duration for that one process run. 
--- GROUP BY machine_id + AVG then averages across all process runs on that machine. ROUND(..., 3) matches LeetCode's expected precision.
+-- GROUP BY machine_id + AVG then averages across all process runs on that machine. ROUND(..., 3) matches LeetCode's expected precision. 
