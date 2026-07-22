@@ -21,12 +21,12 @@ Each solution includes the query, the underlying concept, and a short note on th
 | 12 | Students and Examinations | JOIN, LEFT JOIN, GROUP BY | ✅ | 10-07-26 |
 | 13 | Managers with at Least 5 Direct Reports | Subquery, HAVING | ✅ | 10-07-26 |
 | 14 | Confirmation Rate | LEFT JOIN, conditional AVG | ✅ | 10-07-26 |
-| 15 | Not Boring Movies | WHERE, modulo, ORDER BY | ⬜ | |
-| 16 | Average Selling Price | JOIN, weighted AVG | ⬜ | |
-| 17 | Project Employees I | JOIN, AVG, GROUP BY | ⬜ | |
-| 18 | Percentage of Users Attended a Contest | Subquery, GROUP BY, ORDER BY | ⬜ | |
-| 19 | Queries Quality and Percentage | GROUP BY, conditional aggregation | ⬜ | |
-| 20 | Monthly Transactions I | DATE_FORMAT, conditional SUM | ⬜ | |
+| 15 | Not Boring Movies | WHERE, modulo, ORDER BY | ✅ | 11-07-26 |
+| 16 | Average Selling Price | JOIN, weighted AVG | ✅ | 11-07-26 |
+| 17 | Project Employees I | JOIN, AVG, GROUP BY | ✅ | 11-07-26 |
+| 18 | Percentage of Users Attended a Contest | Subquery, GROUP BY, ORDER BY | ✅ | 11-07-26 |
+| 19 | Queries Quality and Percentage | GROUP BY, conditional aggregation | ✅ | 11-07-26 |
+| 20 | Monthly Transactions I | DATE_FORMAT, conditional SUM | ✅ | 11-07-26 |
 | 21 | Immediate Food Delivery II | Subquery / window function | ⬜ | |
 | 22 | Game Play Analysis IV | CTE, subquery | ⬜ | |
 | 23 | Number of Unique Subjects Taught by Each Teacher | COUNT DISTINCT, GROUP BY | ⬜ | |
